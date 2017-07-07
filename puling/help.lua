@@ -1,8 +1,6 @@
 local function run(msg, matches)
-
-  if matches[1] == 'مساعده' then
-
-local texts = [[<b>
+if matches[1] == 'مساعده' and is_owner(msg) then
+ local help = [[<b>
 اهلا صديقي في اوامر سورس 
 DEV FAEDER  👨‍🔧✅
 اوامر المجموعه لا تحتاج استخدام [/#!] 👨‍🔧¦
@@ -41,20 +39,15 @@ owner ➪ لعرض المدير
 الدردشه 🖋
 </code> <i>
 CH BOT : @TEAM_FAEDET
-]] 
-  tg.sendMessage(msg.chat_id_, 0, 1, texts, 1, 'html')
+]]
 
- end
+               tg.sendMessage(msg.chat_id_, 0, 1, help, 1, 'html')
 
-    end
-
+end
+end
 return {
-
   patterns = {
-
     "^(مساعده)$",
   },
-
   run = run
-
 }
