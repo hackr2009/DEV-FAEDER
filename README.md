@@ -1,119 +1,135 @@
-# CRUEL Bot
-The best source based on New tg-cli
-telegram bot
 
- [![https://telegram.me/joinchat/C18EiUGNqWAxa6nr1dpC5A](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Support_FA-blue.svg)](https://telegram.me/joinchat/C18EiUGNqWAxa6nr1dpC5A)
+عبودي
+انت اذا تـًٍٍْْْْہْْْـًٍٍْْْْﮩِِْْۣۛـۣۣۙـريـًٍٍْْْْہْْْـًٍٍْْْْﮩـد✿⇣:see_no_evil::two_hearts: متحذف
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+:neutral_face:
+عبودي
+مجرد
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+اني
+حذفت
+عبودي
+تنسخ الي بداخل الملف
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+بلينك
+مثلخ
+عبودي
+ﯛ୭͒ڪـ͜ـ͡ـہ Ֆ❥ هاهيه
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+هسه
+عبودي
+سوي الي يسوي
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+اسمه
+pling
+عبودي
+حفوت للحمام محصور بشخه:joy_cat::full_moon_with_face:
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+وبعدها
+سجاد.lus
+عبودي
+حفوت للحمام محصور بشخه:joy_cat::full_moon_with_face:
+اكف
+عبودي
+وك
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+شسوي
+عبودي
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+سجاد.lus
+شني
+رد ع مكالمه
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+[Photo]
+عبودي
+افتح مايك
+ابن المايك
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+وياك
+اسمعك
+يول
+سولف
+اي
+وك
+بوت
+اي
+وك
+اي وياكم
+:full_moon_with_face::joy_cat:
+وك
+هسه
+خل
+اكمل
+نكلع
+Incoming Call 4:41
+Outgoing Call 4:45
+𖤍⁾ヅ ɑ̈ᓗฺg⅃ᓅ⅃Ȋ ᘓɹ̈̇ɹ̣Ȋ ȊgכȊ᎗ɹɹ̈̇ɹ ⅃Ȋ ᘓɹ̇j᎗ɹ̤
+اكلك
+هسه
+خلصت
+رفعتهن
+هسه
+راح علي ريد مي
+شسوي اني
+لك ابن نعل افتح نت
+https://github.com/hackr2009/DEVFAEDER
+GitHub
+hackr2009/DEVFAEDER
+Contribute to DEVFAEDER development by creating an account on GitHub.
+عبودي
+# DEV_FAEDER
+🤖:exclamation: كيفية تنصيب سورس DEVFAEDER تيجي الجديد
 
 
-Tnx by [A simple Lua library for the telegram-cli](https://github.com/rizaumami/tdcli.lua)
-#INSTALL
+:wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
+افتح ترمنـآل وخـلـي هذا الكود / وانتر
 
-```sh
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev ppa-purge python3-pip python3-dev
-
-sudo pip3 install redis
-sudo service redis-server restart
-sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get dist-upgrade
-sudo ppa-purge
 
-git clone https://github.com/CRUELTM/cruel_bot.git
+حاول تكرر هذا الكود 3 مرات لحل كل مشاكل وعدم وجود مشكله في التنصيب
+:wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
+:m: وبـعـديـن خـلـي هذا الامر / وانتر
 
-
-cd cruel_bot
-chmod +x install
-./install
-
-```
+redis-server
 
 
+:wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash: 
+:m: وبـعـديـن افتح ترمنال ثاني وخـلـي هذا الامر / وانترع
 
-#Commands
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-###add
->[#!/]add
->>[#!/]rem
+:wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
+:sa: بـعـديـن خـلـي / وانتر
+git clone https://github.com/hackr2009/DEVFAEDER.git
 
+:wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
+:cyclone: وراهه خـلـي هذا كود / وانتر
 
-###locks
->[#!/]lock (links,edit,fwd,username,spam)
->>[#!/]lock links
+cd DEVFAEDER
 
+:wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
+:diamond_shape_with_a_dot_inside: بـعـديـن خـلـي هاي / وانتر
 
-###mutes
->[#!/]mute (all,photo,document,gif,audio,voice,video)
->>[#!/]mute all
+ chmod 777 install
 
+:wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
+:baggage_claim: بـعـديـن خـلـي / وانتر
 
-###settings
->[#!/]settings
+ ./install
 
+:wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
+ اخير شي خلي هذا كود / وانتر 
 
-###promote and demote
->[#!/]promote  --by reply or id
->>[#!/]demote  --by reply or id
+./faeder.sh
 
+#ملاحظة انتضر لحد ميكمل ويطلب رقم  تلفون
+:wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
 
-###set owner
->[#!/]setowner  --by reply or id
-
-
-###import
->[#!/]import https://telegram.me/joinchat/
-
-
-###botname
->[#!/]setbotname firstname lastname
-
-
-###botusername
->[#!/]setbotusername (username)
->>[#!/]rembotusername
-
-
-###botphoto
->[#!/]setbotphoto
->>Photo
-
-
-###markread
->[#!/]markread (on,off)
-
-
-###pin
->[#!/]pin --reply
->>[#!/]unpin
-
-
-###plugins
->[#!/]plugins 
->>[#!/]plugins + (plugins)
->>[#!/]plugins - (plugins)
-
-
-###bc
->[#!/]bc (id) (Message)
-
-
-#Developers
--------
-[![https://telegram.me/my_Iove_fatemeh](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-MILAD-blue.svg)](https://telegram.me/my_Iove_fatemeh) & [![https://telegram.me/IT_MKH](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.KH-blue.svg)](https://telegram.me/IT_MKH)
-
-#Our Team
--------
-[![https://telegram.me/my_Iove_fatemeh](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-MILAD-blue.svg)](https://telegram.me/my_Iove_fatemeh)  [![https://telegram.me/IT_MKH](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.KH-blue.svg)](https://telegram.me/IT_MKH)
-
-
-[![https://telegram.me/This_Is_Amir](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Amir-blue.svg)](https://telegram.me/This_Is_Amir) [![https://telegram.me/Negative](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Negativ-blue.svg)](https://telegram.me/Negative) 
-
-[![https://telegram.me/HaydraBoy](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Mosy-blue.svg)](https://telegram.me/HaydraBoy) [![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Mahla-blue.svg)](https://telegram.me/HaydraBoy)
-
-[![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-soltan-blue.svg)](https://telegram.me/CRUEL_TEAM) [![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.Reaza-blue.svg)](https://telegram.me/CRUEL_TEAM)
-
-[![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Zahra-blue.svg)](https://telegram.me/CRUEL_TEAM)
-
-#CRUEL Telegram Channel
----
-[![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-CRUEL Team-blue.svg)](https://telegram.me/CRUEL_TEAM)
+:helicopter: - DevLoper : @Devphp_lua
+:interrobang: - DevLoper : @lgonl
+:rocket: - Channel : @Team_faeder
+🤖 - Bot twsl : @ll750kll_bot
+GitHub
+hackr2009/DEVFAEDER
+Contribute to DEVFAEDER development by creating an account on GitHub.
+faeder.sh
