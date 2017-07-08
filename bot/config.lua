@@ -4,10 +4,10 @@ do local _ = {
     "addrem",
     "bc",
     "lock",
+    "help",
     "rank",
     "msg_checks",
     "tools",
-    "help",
   },
   group  = {
     data = "bot/group.json"
