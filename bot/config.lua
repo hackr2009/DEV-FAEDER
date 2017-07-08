@@ -6,7 +6,6 @@ do local _ = {
     "lock",
     "rank",
     "msg_checks",
-    "pin",
     "tools",
     "help",
   },
