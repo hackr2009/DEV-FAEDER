@@ -21,12 +21,12 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
 :sa: بـعـديـن خـلـي / وانتر
-git clone https://github.com/hackr2009/DEVFAEDER.git
+git clone https://github.com/hackr2009/DEV_FAEDER.git
 
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
 :cyclone: وراهه خـلـي هذا كود / وانتر
 
-cd DEVFAEDER
+cd DEV_FAEDER
 
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
 :diamond_shape_with_a_dot_inside: بـعـديـن خـلـي هاي / وانتر
