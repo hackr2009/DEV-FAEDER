@@ -1,3 +1,4 @@
+
 # DEV_FAEDER
 🤖:exclamation: كيفية تنصيب سورس DEVFAEDER تيجي الجديد
 
@@ -31,17 +32,17 @@ cd DEV_FAEDER
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
 :diamond_shape_with_a_dot_inside: بـعـديـن خـلـي هاي / وانتر
 
- chmod 777 install
+ chmod 777 install.sh
 
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
 :baggage_claim: بـعـديـن خـلـي / وانتر
 
- ./install
+ ./install.sh
 
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
  اخير شي خلي هذا كود / وانتر 
 
-./faeder.sh
+./run.sh
 
 #ملاحظة انتضر لحد ميكمل ويطلب رقم  تلفون
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
@@ -51,6 +52,8 @@ cd DEV_FAEDER
 :rocket: - Channel : @Team_faeder
 🤖 - Bot twsl : @ll750kll_bot
 GitHub
-hackr2009/DEVFAEDER
+hackr2009/DEV_FAEDER
 Contribute to DEVFAEDER development by creating an account on GitHub.
-faeder.sh
+GitHub
+hackr2009/DEV_FAEDER
+Contribute to DEV_FAEDER development by creating an account on GitHub.
