@@ -6,6 +6,7 @@ do local _ = {
     "lock",
     "del",
     "rank",
+    "info",
     "setlink",
     "msg_checks",
     "tools",
